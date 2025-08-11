@@ -52,15 +52,6 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50"/>&nbsp;
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shristikhanna&show_icons=true&theme=github_dark" alt="Shristi's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shristikhanna&layout=compact&theme=github_dark" />
-</p>
-
----
 ## Github Stats
 <!-- GitHub Stats -->
 <p align="center">
