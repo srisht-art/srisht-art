@@ -61,7 +61,15 @@
 </p>
 
 ---
-
+## Github Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srisht-art&show_icons=true&locale=en" alt="srisht-art" /></p>
+<p align="center">
+<p>
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shre1100&" alt="shre1100" /> &nbsp; -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srisht-art&show_icons=true&locale=en&layout=compact" alt="srisht-art" /></p>
+</p>
+<br/>
+----
 ## 📫 Connect With Me
 
 - LinkedIn: [Shristi Khanna](https://www.linkedin.com/in/shristikhanna22/)
