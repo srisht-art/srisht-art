@@ -69,8 +69,7 @@
 </p>
 
 <br/>
-----
-## 📫 Connect With Me
+Connect With Me
 
 - LinkedIn: [Shristi Khanna](https://www.linkedin.com/in/shristikhanna22/)
 - Email: shristikhanna22@gmail.com
